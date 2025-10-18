@@ -46,7 +46,7 @@ def keep_alive():
 
 # --- Configuration ---
 TOKEN = '7878081685:AAFs7srP-_D3Ppoe88_zfWfriR6Wfocb6qA' # Replace with your actual token
-OWNER_ID = 6706525657 # Replace with your Owner ID
+OWNER_ID = 6337221543# Replace with your Owner ID
 ADMIN_ID = 6706525657 # Replace with your Admin ID (can be same as Owner)
 YOUR_USERNAME = '@WHO182' # Replace with your Telegram username (without the @)
 #UPDATE_CHANNEL = 'https://youtube.com/@teamxcutehack?si=x7PUjCTke1h0vkcA' # Replace with your update channel link
